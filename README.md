@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Angel! <br/><a href="https://tryhackme.com/r/p/zerodayblitz">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/zerodayblitz">Programmer</a></h1>
 
-<!--
-**zerodayblitz/zerodayblitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 CyberSecurity Projects:</h2>
+ 
+<h2>👨‍💻 Coding Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>JAVA</b>
+  - [Snake Game]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 CyberSecurity Projects:</h2>
+
+  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://x.com/foreverblitzin
+[linkedin]: https://www.linkedin.com/in/angel-santiago-b36295295/
