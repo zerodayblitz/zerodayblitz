@@ -7,7 +7,7 @@
 - <b>JAVA</b>
   - [Snake Game]()
 
-<h2>💻 CyberSecurity Projects:</h2>
+<h2>📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
 
