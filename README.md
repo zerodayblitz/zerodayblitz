@@ -4,7 +4,7 @@
  
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>JAVA</b>
+- <b>JAVA ♨️</b>
   - [Snake Game]()
 
 <h2>📄 Certifications:</h2>
