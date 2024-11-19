@@ -5,7 +5,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>JAVA ♨️</b>
-  - [Snake Game]()
+  - [Snake Game](https://github.com/zerodayblitz/snakeGame/tree/main)
 
 <h2>📄 Certifications:</h2>
 
