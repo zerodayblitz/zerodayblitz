@@ -1,6 +1,8 @@
 <h1>Hi, I'm Angel! <br/><a href="https://tryhackme.com/r/p/zerodayblitz">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://github.com/zerodayblitz">Programmer</a></h1>
 
 <h2>💻 CyberSecurity Projects:</h2>
+
+- [CTF Write Ups](https://github.com/zerodayblitz/CTF-writeups)
  
 <h2>👨‍💻 Coding Projects:</h2>
 
