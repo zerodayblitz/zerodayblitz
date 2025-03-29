@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/><a href="https://tryhackme.com/r/p/zerodayblitz">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://github.com/zerodayblitz">Programmer</a></h1>
+<h1>Hi, I'm Angel! <br/><a href="https://tryhackme.com/r/p/zerodayblitz">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/angel-santiago-b36295295/">Cybersecurity Student</a>, <a href="https://github.com/zerodayblitz">Programmer</a></h1>
 
 <h2>💻 CyberSecurity Projects:</h2>
 
