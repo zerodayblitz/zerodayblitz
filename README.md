@@ -3,7 +3,7 @@
 <h2>💻 CyberSecurity Projects:</h2>
 
 - [CTF Write Ups](https://github.com/zerodayblitz/CTF-writeups)
-- [Cyber Security Projects](https://github.com/zerodayblitz/Cyber-Sec-Projects)
+- [CyberSecurity Projects](https://github.com/zerodayblitz/Cyber-Sec-Projects)
  
 <h2>👨‍💻 Coding Projects:</h2>
 
