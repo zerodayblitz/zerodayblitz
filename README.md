@@ -14,10 +14,6 @@
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📊 GitHub Stats:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://x.com/foreverblitzin
-[linkedin]: https://www.linkedin.com/in/angel-santiago-b36295295/
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerodayblitz&show_icons=true&theme=blue_navy)
