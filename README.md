@@ -17,3 +17,7 @@
 <h2>📊 GitHub Stats:</h2>
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerodayblitz&show_icons=true&theme=blue_navy)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayblitz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
