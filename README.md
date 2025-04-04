@@ -40,7 +40,7 @@
 
 - 📫 How to reach me: **angelsantiago3200@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤳Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-santiago-b36295295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/afnanbinabbas/" height="30" width="40" /></a>
 </p>
