@@ -28,8 +28,6 @@
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=zerodayblitz&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Scripting/Programming**
