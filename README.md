@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 
-  <a target="_blank" rel="noreferrer"> 
+  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer"> 
     <img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="metasploit" width="40" height="40"/> 
   </a> 
 </p>
