@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Python, Linux, Metasploit, Nmap**
 
-- 📫 How to reach me: **angelsantiago3200@gmail.com**
+- 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🤳Connect with me:</h3>
 <p align="left">
