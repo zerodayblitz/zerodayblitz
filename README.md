@@ -10,8 +10,10 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</h1>
+<h1 align="center">Hi 👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1>
+<h2 align="center">
+  <a href="https://zerodayblitz.com" target="_blank"> My Website</a>
+</h2>
 <h3 align="center">I'm a Cyber Security student from New York City!</h3>
 
 <h2>💻 CyberSecurity Projects:</h2>
@@ -23,12 +25,15 @@
 
 - <b>JAVA ♨️</b>
   - [Snake Game](https://github.com/zerodayblitz/snakeGame/tree/main)
+- <b>HTML 📄</b>
+  - [Portfolio Website](https://github.com/zerodayblitz/Portfolio)
 
 <h2>📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zerodayblitz&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  - [ISC2 CC](https://www.credly.com/badges/1a9614c1-0b83-495b-b6a5-a0417ca0d559/public_url)
+<h2>💭 Currently:</h2>
 
 - 🔭 I’m currently working on **Scripting/Programming**
 
@@ -40,26 +45,59 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🤳Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/angel-santiago-b36295295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/afnanbinabbas/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/angel-santiago-b36295295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/zerodayblitz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@0dayblitz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40"/>
+  </a>
+  <a href="https://www.tiktok.com/@zerodayblitz" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="40"/>
+  </a>
+  <a href="https://x.com/zerodayblitz" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer"> 
-    <img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="metasploit" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/sitelogo.png" alt="nmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" width="40" height="40"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
