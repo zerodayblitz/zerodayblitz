@@ -11,9 +11,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1>
-<h2 align="center">
-  <a href="https://zerodayblitz.com" target="_blank"> My Website</a>
-</h2>
 <h3 align="center">I'm a Cyber Security student from New York City!</h3>
 
 <h2>💻 CyberSecurity Projects:</h2>
