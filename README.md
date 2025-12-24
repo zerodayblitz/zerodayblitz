@@ -28,16 +28,12 @@
 <h2>📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
-
   - [ISC2 CC](https://www.credly.com/badges/1a9614c1-0b83-495b-b6a5-a0417ca0d559/public_url)
 <h2>💭 Currently:</h2>
 
 - 🔭 I’m currently working on **Scripting/Programming**
-
 - 🌱 I’m currently learning **Web Exploitation**
-
 - 💬 Ask me about **Python, Linux, Metasploit, Nmap**
-
 - 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🤳Connect with me:</h3>
@@ -107,7 +103,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerodayblitz&theme=radical" alt="Angel's GitHub Contribution"/>
   </a>
 </p>
-
 <p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/zerodayblitz">
     <img alt="Angel's Github Stats" src="https://github-readme-stats-blush-eight.vercel.app/api?username=zerodayblitz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
