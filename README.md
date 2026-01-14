@@ -13,21 +13,19 @@
 <h1 align="center">Hi 👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1>
 <h3 align="center">I'm a Cyber Security student from New York City!</h3>
 
-<h2>💻 CyberSecurity Projects:</h2>
+<h2>🔨 Projects</h2>
+<h3> Cybersecurity</h3>
 
 - [CTF Write Ups](https://github.com/zerodayblitz/CTF-writeups)
 - [CyberSecurity Projects](https://github.com/zerodayblitz/Cyber-Sec-Projects)
- 
-<h2>👨‍💻 Coding Projects:</h2>
+- [TryHackMe: Advent of Cyber](https://github.com/zerodayblitz/AdventOfCyber)
+<h3> Coding</h3>
 
-- <b>JAVA ♨️</b>
-  - [Snake Game](https://github.com/zerodayblitz/snakeGame/tree/main)
-- <b>HTML 📄</b>
-  - [Portfolio Website](https://github.com/zerodayblitz/Portfolio)
-- <b>Python 🐍</b>
-  - [CipherSuite](https://github.com/zerodayblitz/CipherSuite-Py)
-  - [NetSuite](https://github.com/zerodayblitz/NetSuite-network-exploitation-tool)
-
+- <b>[CipherSuite](https://github.com/zerodayblitz/CipherSuite-Py) (Python)</b>
+- <b>[AdventofCode](https://github.com/zerodayblitz/AdventOfCode/tree/main) (C++)</b>
+- <b>[NetSuite](https://github.com/zerodayblitz/NetSuite-network-exploitation-tool) (Python)</b>
+- <b>[Snake Game](https://github.com/zerodayblitz/snakeGame/tree/main) (Java)</b>
+- <b>[Portfolio Website](https://github.com/zerodayblitz/Portfolio) (HTML, CSS, JS)</b>
 <h2>📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
