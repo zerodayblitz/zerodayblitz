@@ -32,8 +32,8 @@
   - [ISC2 CC](https://www.credly.com/badges/1a9614c1-0b83-495b-b6a5-a0417ca0d559/public_url)
 <h2>💭 Currently:</h2>
 
-- 🔭 I'm currently working on **Scripting/Programming**
-- 🌱 I'm currently learning **Web Exploitation**
+- 🔭 I'm currently working on **Web Development**
+- 🌱 I'm currently learning **Web Exploitation, Development, and Security**
 - 💬 Ask me about **Python, Linux, Metasploit, Nmap**
 - 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
