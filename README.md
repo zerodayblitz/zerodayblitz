@@ -34,7 +34,7 @@
 <h2>💭 Currently:</h2>
 
 - 🔭 I'm currently working on **Security Tool Development**
-- 🌱 I'm currently learning **Offsenive Security, Scripting, & **
+- 🌱 I'm currently learning **Offsenive Security & Scripting**
 - 💬 Ask me about **Python, Linux, Metasploit, Nmap**
 - 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
 
