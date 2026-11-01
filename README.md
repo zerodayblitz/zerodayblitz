@@ -10,33 +10,9 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1>
-<h3 align="center">I'm a Cyber Security student from New York City!</h3>
+<h2 align="center">Hi👋, I'm Angel Santiago <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
+<h3 align="center">I'm a Cybersecurity student from New York City!</h3>
 
-<h2>🔨 Projects</h2>
-<h3> Cybersecurity</h3>
-
-- [CTF Write Ups](https://github.com/zerodayblitz/CTF-writeups)
-- [CyberSecurity Projects](https://github.com/zerodayblitz/Cyber-Sec-Projects)
-- [TryHackMe: Advent of Cyber](https://github.com/zerodayblitz/AdventOfCyber)
-<h3> Coding</h3>
-
-- <b>[CipherSuite](https://github.com/zerodayblitz/CipherSuite-Py) (Python)</b>
-- <b>[AdventofCode](https://github.com/zerodayblitz/AdventOfCode/tree/main) (C++)</b>
-- <b>[NetSuite](https://github.com/zerodayblitz/NetSuite-network-exploitation-tool) (Python)</b>
-- <b>[Snake Game](https://github.com/zerodayblitz/snakeGame/tree/main) (Java)</b>
-- <b>[Portfolio Website](https://github.com/zerodayblitz/Portfolio) (HTML, CSS, JS)</b>
-<h2>📄 Certifications:</h2>
-
-  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
-  - [ISC2 CC](https://www.credly.com/badges/1a9614c1-0b83-495b-b6a5-a0417ca0d559/public_url)
-<h2>💭 Currently:</h2>
-
-- 🔭 I'm currently working on **Web Development**
-- 🌱 I'm currently learning **Web Exploitation, Development, and Security**
-- 💬 Ask me about **Python, Linux, Metasploit, Nmap**
-- 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🤳Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/angel-santiago-b36295295/" target="_blank">
@@ -55,44 +31,29 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40"/>
   </a>
 </p>
+<h2>💭 Currently:</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/sitelogo.png" alt="nmap" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" width="40" height="40"/>
-  </a>
-</p>
+- 🔭 I'm currently working on **Security Tool Development**
+- 🌱 I'm currently learning **Offsenive Security, Scripting, & **
+- 💬 Ask me about **Python, Linux, Metasploit, Nmap**
+- 📫 How to reach me: [Contact](https://zerodayblitz.com/#contact)
+
+<h2>📄 Certifications:</h2>
+
+  - [ISC2 CC](https://www.credly.com/badges/1a9614c1-0b83-495b-b6a5-a0417ca0d559/public_url)
+  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/265a2098281ffa4ab7ce16255ac51a03)
+  - [CompTIA Security+](https://www.credly.com/badges/388e178b-cfed-4789-b330-1239384a8241/public_url)
+
+<h2 align="left">🛠️ Languages and Tools:</h2>
+
+| Category | Technologies & Tools |
+|:---|:---|
+| **AI & Machine Learning** | <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
+| **Programming & Scripting** | <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+| **Web & API Pentesting** | <a href="https://github.com/OJ/gobuster" target="_blank"><img src="https://img.shields.io/badge/Gobuster-2C3E50?style=for-the-badge" alt="Gobuster"/></a>
+| **Network & Infrastructure Pentesting** | <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></a>   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo.png" alt="nmap" width="40" height="40"/> </a>
+| **Malware & Reverse Engineering** | <a href="https://www.virustotal.com" target="_blank"><img src="https://img.shields.io/badge/VirusTotal-4A90E2?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal"/></a> |
+| **Operating Systems** | <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a> <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -117,5 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ![Angel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zerodayblitz&custom_title=Angel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
